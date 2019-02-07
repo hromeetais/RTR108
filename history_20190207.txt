@@ -1,0 +1,32 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox&
+    4  git clone https://github.com/hromeetais/RTR108
+    5  ls -lt
+    6  cat README.md
+    7  ls -lt
+    8  cd RTR108
+    9  cat README.md
+   10  ls
+   11  ls -la
+   12  ls -lat
+   13  ls -l
+   14  nano README.md
+   15  ls -lt
+   16  ls -la
+   17  ls -lt
+   18  git config --global user.email klavsvonda@gmail.com
+   19  git add .
+   20  git commit -m "20190207_14_55_pirmais_commits"
+   21  git push origin master
+   22  nano README.md
+   23  nano git-upload
+   24  ls -lt
+   25  git-upload
+   26  ./git-upload
+   27  ls -lta
+   28  chmod 740 git-upload 
+   29  ls -lt
+   30  ls
+   31  history
+   32  history > history_20190207.txt
